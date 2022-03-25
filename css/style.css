@@ -47,7 +47,7 @@ ul li:last-child {
 }
 
 .banner {
-  background-image: url("img/img\ 1.png");
+  background-image: url("./img/img\ 1.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 512px;
