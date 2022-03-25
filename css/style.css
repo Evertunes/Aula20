@@ -47,7 +47,7 @@ ul li:last-child {
 }
 
 .banner {
-  background-image: url("../img/img\ 1.png");
+  background-image: url("img/img\ 1.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 512px;
@@ -156,7 +156,7 @@ ul li:last-child {
   justify-content: center;
   text-align: center;
   align-items: center;
-  background-image: url("/img/banner\ 1.png");
+  background-image: url("img/banner\ 1.png");
   width: 361px;
   height: 135px;
   background-repeat: no-repeat;
@@ -178,7 +178,7 @@ ul li:last-child {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("/img/banner\ 1\ \(1\).png");
+  background-image: url("img/banner\ 1\ \(1\).png");
   width: 361px;
   height: 135px;
   background-repeat: no-repeat;
